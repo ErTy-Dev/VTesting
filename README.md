@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + Shadcn UI + Tailwind CSS
+# React + TypeScript + Vite + Shadcn UI + Tailwind CSS + Zustand
 
 ## Для запуска проекта нужен Node js
 
